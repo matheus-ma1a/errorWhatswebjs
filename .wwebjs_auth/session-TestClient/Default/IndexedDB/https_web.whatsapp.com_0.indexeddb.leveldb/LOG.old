@@ -1,0 +1,25 @@
+2024/03/25-11:39:16.337 1f9c Reusing MANIFEST D:\Nova pasta\webhook\.wwebjs_auth\session-TestClient\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/25-11:39:16.337 1f9c Recovering log #99
+2024/03/25-11:39:16.506 1f9c Reusing old log D:\Nova pasta\webhook\.wwebjs_auth\session-TestClient\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000099.log 
+2024/03/25-11:39:16.506 1f9c Delete type=2 #98
+2024/03/25-11:39:16.506 1f9c Delete type=2 #100
+2024/03/25-11:39:35.714 2c68 Compacting 1@1 + 1@2 files
+2024/03/25-11:39:35.792 2c68 Generated table #104@1: 31336 keys, 1943126 bytes
+2024/03/25-11:39:35.792 2c68 Compacted 1@1 + 1@2 files => 1943126 bytes
+2024/03/25-11:39:35.792 2c68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/25-11:39:36.409 2c68 Level-0 table #106: started
+2024/03/25-11:39:36.442 2c68 Level-0 table #106: 1095907 bytes OK
+2024/03/25-11:39:36.443 2c68 Delete type=2 #66
+2024/03/25-11:39:36.443 2c68 Delete type=0 #99
+2024/03/25-11:39:36.443 2c68 Delete type=2 #101
+2024/03/25-11:39:36.472 1bb4 Compacting 1@0 + 1@1 files
+2024/03/25-11:39:36.576 1bb4 Generated table #107@0: 38975 keys, 830130 bytes
+2024/03/25-11:39:36.576 1bb4 Compacted 1@0 + 1@1 files => 830130 bytes
+2024/03/25-11:39:36.576 1bb4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/25-11:39:36.577 1bb4 Delete type=2 #102
+2024/03/25-11:39:36.577 1bb4 Delete type=2 #106
+2024/03/25-11:39:38.177 f04 Compacting 1@1 + 1@2 files
+2024/03/25-11:39:38.242 f04 Generated table #108@1: 33943 keys, 2202278 bytes
+2024/03/25-11:39:38.249 f04 Generated table #109@1: 6134 keys, 162429 bytes
+2024/03/25-11:39:38.249 f04 Compacted 1@1 + 1@2 files => 2364707 bytes
+2024/03/25-11:39:38.249 f04 compacted to: files[ 0 0 2 0 0 0 0 ]
